@@ -1,0 +1,23 @@
+.nav-header{
+	width:100%;
+}
+.navbar{
+	width:100%;
+}
+.navbar-form{
+	padding-right: 30px;
+}
+.quotes{
+	font-size: 25px;
+	margin:60px;
+}
+.line{
+	width: 50%;
+}
+.indent{
+	margin: 40px;
+}
+.list{
+	line-height: 40px;
+	font-size: 17px;
+}
